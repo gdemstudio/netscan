@@ -1,7 +1,7 @@
 # netscan
 TCP Port Scan
 
-# Install
-git clone 
-cd netscan
-pip install -r requirements.txt
+Guide Install
+  git clone https://github.com/blogbytesecurity/netscan.git 
+  cd netscan
+  pip install -r requirements.txt
