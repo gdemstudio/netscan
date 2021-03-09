@@ -1,0 +1,8 @@
+art==5.1
+colorama==0.4.4
+commonmark==0.9.1
+pyfiglet>=0.8.0,<0.9.0
+Pygments==2.8.1
+rich==9.13.0
+typing-extensions==3.7.4.3
+scapy==2.4.4
