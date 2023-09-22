@@ -48,7 +48,7 @@ class NetScan:
         console.print(f"[bold green]{ascii_art}[/bold green]")
         console.print("*" * 64, style="bold green")
         console.print(
-            "*" * 8, "TCP Port Scanner - By BlogByteSecurity Ver.1.0", "*" * 8, style="bold green"
+            "*" * 8, "TCP Port Scanner - By GdemStudio Ver.1.0", "*" * 8, style="bold green"
         )
         console.print("*" * 64, style="bold green")
         print()
